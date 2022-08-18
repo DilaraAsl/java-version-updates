@@ -13,6 +13,7 @@
         <module>m3_lambda</module>
         <module>m4_semiColononOperator</module>
         <module>m5_comparator_interface</module>
+        <module>m6_stream</module>
     </modules>
 
     <properties>
