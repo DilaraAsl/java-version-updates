@@ -1,3 +1,9 @@
 /.idea/
 *.iml
 out
+/m6_stream/target/
+/target/
+/m5_comparator_interface/target/
+/m4_semiColononOperator/target/
+/*/target/
+/module2/target/
